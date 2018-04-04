@@ -71,7 +71,9 @@ h2 {
 
 a {
     padding: 0px 0px 0px 0px;
+    /* only give some space to the right of anchors (links) */
     color: #FFFFFF;
+    /* set anchor color to white */
 }
 
 p {
@@ -92,6 +94,7 @@ p {
 
 img {
     padding: 1px 1px 0px 0px;
+    /* only give some space to the right of images */
 }
 
 .hero-text {
