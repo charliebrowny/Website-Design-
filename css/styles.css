@@ -62,7 +62,9 @@ header nav ul li a{
     text-decoration: none;
     
 }
-h1,
+h1 
+    {text-transform: uppercase}
+
 h2 {
     font-weight: 400;
     text-align: center
